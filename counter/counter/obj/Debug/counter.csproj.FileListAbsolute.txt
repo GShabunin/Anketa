@@ -1,0 +1,6 @@
+C:\Users\Глеб\Desktop\counter\counter\bin\Debug\counter.exe.config
+C:\Users\Глеб\Desktop\counter\counter\bin\Debug\counter.exe
+C:\Users\Глеб\Desktop\counter\counter\bin\Debug\counter.pdb
+C:\Users\Глеб\Desktop\counter\counter\obj\Debug\counter.csprojResolveAssemblyReference.cache
+C:\Users\Глеб\Desktop\counter\counter\obj\Debug\counter.exe
+C:\Users\Глеб\Desktop\counter\counter\obj\Debug\counter.pdb
